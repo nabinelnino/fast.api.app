@@ -2,9 +2,9 @@
 ## In this project I have created machine learning model, which can predict 7 categories of object based on user input.
 
 ## Prerequisites
-Python 2.x
-HTML
-CSS
+- Python 2.x
+- HTML
+- CSS
 
 ## Installing dependencies
 Note: You can skip this step, if you are installing the packages that mentions in the requirements.txt file above. Dependencies are listed  in the requirements.txt file. And in order to host file in Heroku platform you need to install runtime.txt file.<br>
